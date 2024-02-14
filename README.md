@@ -25,7 +25,7 @@ This project was done by the following people:
 
 - **internships.py:**
   - Python program containing the code for data analysis.
-- **covid_data.csv:**
+- **CaseStudy-11.csv:**
   - Input data file containing COVID-19 related information.
 
 ## Acknowledgments
