@@ -18,13 +18,13 @@ This project is a collaborative effort with **JFORK TECHNOLOGY SERVICES PRIVATE 
 ### Contributors
 
 This project was done by the following people:
-[Swapnadeep Kapuri 2BU20CS098](https://www.linkedin.com/in/swapnadeep-kapuri-5ab423228/)
-[Omkar Bhandari 2GI20CS080](https://www.linkedin.com/in/omkar-bhandari-48ba11271/)
+- [Swapnadeep Kapuri 2BU20CS098](https://www.linkedin.com/in/swapnadeep-kapuri-5ab423228/)
+- [Omkar Bhandari 2GI20CS080](https://www.linkedin.com/in/omkar-bhandari-48ba11271/)
 
 ## Project Structure
 
-- **data_analysis.ipynb:**
-  - Jupyter Notebook containing the code for data analysis.
+- **internships.py:**
+  - Python program containing the code for data analysis.
 - **covid_data.csv:**
   - Input data file containing COVID-19 related information.
 
