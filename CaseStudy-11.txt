@@ -1,0 +1,12 @@
+1. Get the first 6 rows.
+2. Check the columns contained in the dataset.
+3. Check the shape of the dataframe.
+4. Check if the dataframe has any null values.
+5. List the last 6 rows.
+6. check the values for the columns ‘’ConfirmedIndianNational’ and ‘ConfirmedForeignNational’.
+7. Drop the columns 'Sno' and 'Time'
+8. Find out the maximum cases until 11th Aug 2021 for each state.
+9. Find out the total confirmed cases till 11th Aug 2021.
+10. Find out the percentage for Active, fatal and cured cases.
+11. Check the data for the 10 most affected states with covid-19 in India.
+12. Find out the total death till Aug 2021.
